@@ -1,0 +1,12 @@
+com\example\orderservice\feign\dto\ChargeRequest.class
+com\example\orderservice\OrderServiceApplication.class
+com\example\orderservice\controller\OrderController.class
+com\example\orderservice\feign\dto\ChargeResponse.class
+com\example\orderservice\domain\OrderItem.class
+com\example\orderservice\dto\PlaceOrderRequest.class
+com\example\orderservice\dto\PlaceOrderRequest$OrderLine.class
+com\example\orderservice\domain\OrderStatus.class
+com\example\orderservice\domain\Order.class
+com\example\orderservice\repository\OrderRepository.class
+com\example\orderservice\feign\PaymentClient.class
+com\example\orderservice\service\OrderService.class
